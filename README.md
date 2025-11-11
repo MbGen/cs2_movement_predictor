@@ -58,7 +58,15 @@ MAP_CONFIGS = {
 
 ## 🎬 Demo
 
-![Movement Prediction Demo](demo.gif)
+![Movement Prediction Demo](demo_gifs\demo.gif)
+
+### with disabled noisy path
+
+![Movement Prediction Demo without path](demo_gifs\without_full_path.gif)
+
+### manual mode
+
+![Manual mode](demo_gifs\manual.gif)
 
 The visualization shows:
 - 🔴 **Red (and other colors)**: Actual path taken by the player
